@@ -10,6 +10,7 @@ I'm incredibly passionate about video game development in C++ and it keeps me aw
 
 <p align="center">
 <img src="images/screencap8.png?raw=true" width="800"/>
+<img src="images/screencap1.png?raw=true" width="800"/>
 <img src="images/screencap3.png?raw=true" width="800"/>
 <img src="images/screencap5.png?raw=true" width="800"/>
 <img src="images/screencap6.png?raw=true" width="800"/>
