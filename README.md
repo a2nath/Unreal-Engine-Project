@@ -8,9 +8,9 @@ I'm incredibly passionate about video game development in C++ and it keeps me aw
 
 -Abhimanyu Nath
 
-
-
-![Scheme](images/screencap8.png | width=500)
-![Scheme](images/screencap3.png | width=500)
-![Scheme](images/screencap5.png | width=500)
-![Scheme](images/screencap6.png | width=500)
+<p align="center">
+<img src="images/screencap8.png?raw=true" width="800"/>
+<img src="images/screencap3.png?raw=true" width="800"/>
+<img src="images/screencap5.png?raw=true" width="800"/>
+<img src="images/screencap6.png?raw=true" width="800"/>
+</p>
